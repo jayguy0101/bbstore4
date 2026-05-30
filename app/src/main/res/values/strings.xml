@@ -1,24 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Bookstore Billing</string>
-    <string name="browse">Browse</string>
-    <string name="cart">Cart</string>
-    <string name="history">History</string>
-    <string name="checkout">Checkout</string>
-    <string name="pay_now">Pay Now</string>
-    <string name="back_to_browse">Back to Browse</string>
-    <string name="view_history">View History</string>
-    <string name="add_to_cart">Add to Cart</string>
-    <string name="remove">Remove</string>
-    <string name="quantity">Quantity</string>
-    <string name="total">Total:</string>
-    <string name="payment_successful">✓ Payment Successful!</string>
-    <string name="processing_payment">Processing Payment...</string>
-    <string name="order_id">Order ID:</string>
-    <string name="transaction_id">Transaction ID:</string>
-    <string name="full_name">Full Name</string>
-    <string name="email">Email</string>
-    <string name="card_number">Card Number</string>
-    <string name="expiry_date">MM/YY</string>
-    <string name="cvv">CVV</string>
+    <string name="app_name">Bill Generator</string>
 </resources>
